@@ -6,7 +6,6 @@ The system displays **60 randomized multiple-choice questions** (40 PHP + 20 SQL
 
 This project was developed as part of a group assignment to demonstrate teamwork, backend integration, and modern front-end design using **HTML, CSS, JavaScript, PHP, and MySQL**.
 
----
 
  🚀 Features
 ✅ Randomized question order each session  
@@ -18,7 +17,6 @@ This project was developed as part of a group assignment to demonstrate teamwork
 ✅ Responsive design for all screen sizes  
 ✅ Clean code structure and reusable components  
 
----
 
  🧠 Technologies Used
 | Technology | Purpose |
@@ -31,7 +29,6 @@ This project was developed as part of a group assignment to demonstrate teamwork
 | **XAMPP** | Local development environment |
 | **Git & GitHub** | Version control and collaboration |
 
----
 
  🗂️ Folder Structure
 C:\xampp\htdocs\GR3QUIZAPP
@@ -89,12 +86,12 @@ http://localhost/GR3QUIZAPP/
 👥 Group Members & Roles
 Name	Role	Responsibilities
 Omatiga Joshua Iko-ojo (23/2000) - Backend Developer	Built database connection, question logic, and PHP scripts
-Member 2 (Name)	Frontend Developer	Designed layout, color theme, and page responsiveness
+Ukere Kelvin (23/0944)	- Frontend Developer	Designed layout, color theme, and page responsiveness
 Otukoya Michael Abdulganiu (23/0369) - Database Engineer	Created and managed the questions table and imports
 Obediah Miracle Mmesoma (23/2994) - JavaScript Engineer	Added interactivity, scroll effects, and animations
 Talson Seyilnen Bege (23/2386) - Quality Assurance	Tested functionality, scoring accuracy, and responsiveness
 Sadiku Adeshina (23/0412)	- Documentation Lead	Prepared README, project report, and in-code comments
-Member 7 (Name)	Project Coordinator	Oversaw version control, progress, and presentation prep
+Olubiyo David Victor (23/2821)	- Project Coordinator	Oversaw version control, progress, and presentation prep
 
 ✳️ You can replace the placeholders with real names and tweak the roles slightly if needed.
 
