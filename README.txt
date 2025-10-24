@@ -86,7 +86,7 @@ http://localhost/GR3QUIZAPP/
 👥 Group Members & Roles
 Name	Role	Responsibilities
 Omatiga Joshua Iko-ojo (23/2000) - Backend Developer	Built database connection, question logic, and PHP scripts
-Ukere Kelvin (23/0944)	- Frontend Developer	Designed layout, color theme, and page responsiveness
+Ukere Kelvin (23/0945)	- Frontend Developer	Designed layout, color theme, and page responsiveness
 Otukoya Michael Abdulganiu (23/0369) - Database Engineer	Created and managed the questions table and imports
 Obediah Miracle Mmesoma (23/2994) - JavaScript Engineer	Added interactivity, scroll effects, and animations
 Talson Seyilnen Bege (23/2386) - Quality Assurance	Tested functionality, scoring accuracy, and responsiveness
