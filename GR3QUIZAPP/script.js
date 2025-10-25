@@ -1,3 +1,4 @@
+// Added by Obediah Miracle(miracle805)
 document.addEventListener("DOMContentLoaded", () => {
   const timerDisplay = document.getElementById("timer");
   if (!timerDisplay) return;
