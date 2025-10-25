@@ -55,9 +55,9 @@ Follow these simple steps to set up the project locally:
 Open your terminal (CMD or Git Bash) and run:
 
 ```bash
-git clone https://github.com/<your-username>/GR3QUIZAPP.git
+git clone https://github.com/adesadiku/PHP-Quiz-Application.git
 
-cd GR3QUIZAPP
+cd PHP=Quiz-Application
 
 3️⃣ Move to XAMPP Directory
 
@@ -93,7 +93,6 @@ Talson Seyilnen Bege (23/2386) - Quality Assurance	Tested functionality, scoring
 Sadiku Adeshina (23/0412)	- Documentation Lead	Prepared README, project report, and in-code comments
 Olubiyo David Victor (23/2821)	- Project Coordinator	Oversaw version control, progress, and presentation prep
 
-✳️ You can replace the placeholders with real names and tweak the roles slightly if needed.
 
 🧩 How It Works
 
@@ -127,9 +126,6 @@ Add question categories (PHP, SQL, HTML, etc.)
 
 Store scores and display leaderboard
 
-📜 License
-
-This project is licensed under the MIT License — feel free to modify and use it for educational purposes.
 
 💬 Credits
 
