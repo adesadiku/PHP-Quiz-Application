@@ -8,7 +8,7 @@ body {
   justify-content: center;
 }
 
-.quiz-container, .result-container, .start-container {
+.quiz-container,.result-container,.start-container {
   max-width: 800px;
   width: 90%;
   background: #121212;
@@ -74,6 +74,6 @@ h1, h2 {
   transition: 0.4s;
 }
 
-.btn-start:hover, .btn-submit:hover {
+.btn-start:hover,.btn-submit:hover {
   background: #00c3a3;
 }
