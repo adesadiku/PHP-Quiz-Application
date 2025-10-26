@@ -1,11 +1,13 @@
 <?php
 include 'db_connect.php';
 session_start();
+//I Talson Seyilnen tested the functionality,
+//  scoring accuracy, and responsiveness 
+// and made sure everything was working perfectly.
 
 $questions = $_SESSION['questions'];
 $answers = $_SESSION['answers'];
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
