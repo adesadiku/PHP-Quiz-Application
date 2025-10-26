@@ -1,3 +1,4 @@
+// Added by Omatiga(joshprograms)
 <?php
 include 'db_connect.php';
 session_start();
