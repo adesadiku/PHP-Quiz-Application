@@ -1,0 +1,24 @@
+PHP Quiz Application - Group 3
+
+
+This project is a web-based quiz system developed using PHP and MySQL.
+It supports multiple-choice questions, randomized question order, and
+automated scoring.
+
+Key Features:
+- PHP GET & POST form handling
+- MySQL database integration
+- JavaScript timer simulation
+- Review summary after quiz submission
+- Responsive HTML/CSS interface
+
+Team Members:
+1. Ukere Kelvin – UI Design
+2. Omatiga Joshua Iko-ojo – Question Page & Form Logic
+3. Talson Seyilnen Bege – Result & Review Calculation
+4. Otukoya Michael Abdulganiu – Database Manager
+5. Obediah Miracle Mmesoma – Timer & JavaScript Functions
+6. Sadiku Adeshina – README Documentation
+7. Olubiyo David Victor – Presentation & Screenshots
+
+Developed as part of the Web Programming (PHP) practical assignment.
